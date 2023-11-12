@@ -11108,3 +11108,22 @@ footer.footer .social-link:hover {
   font-size: 2.25rem;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
+
+#footer-link {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    background-color: #f8f9fa; /* 设置一个背景色，可以根据您的设计进行更改 */
+  }
+  
+  .small-text {
+    font-size: 12px; /* 或您喜欢的任何小尺寸 */
+  }
+  
+  .gray-link {
+    color: gray; /* 将文本颜色设置为灰色 */
+    text-decoration: none; /* 移除下划线 */
+  }
+  
